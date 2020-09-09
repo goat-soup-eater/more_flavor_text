@@ -1,0 +1,21 @@
+The current version is 1.2, the first one to be uploaded to github. 
+
+The MUTUALLY EXCLUSIVE add-ons are:
+ - *otn*, Original Technology Names. For those who want the flavor but not the changes to technology names.
+ - *trimmed_down*, Self-explanatory. For those who want to have the new technology names but trimmed-down flavor text.
+ - *trimmed_down_otn*, Trimmed Down with Original Technology Names. For those who want trimmed down flavor text and the old technology names.
+
+To install, you should:
+ - Enter the folder *1.2*, download the folder *1.2 main*.
+ - Create a copy of *Remnants.jar* in a separate folder, to prevent accidental damage to the game.
+ - Open Remnants.jar with an archive tool (WinRar, 7-Zip, etc.)
+ - Go to *rotp/lang*.
+ - Add the folder *fl* and the *languages.txt* file to the archive.
+ - Run the game and choose *Flavor* as your language. Done!
+ 
+To install add-ons, you should:
+ - Download the add-on you want to use.
+ - Install the main version without add-ons.
+ - Open *Remnants.jar* with an archive tool
+ - Go to *rotp/lang/fl*
+ - Add the files in the downloaded add-on folder to the archive.
