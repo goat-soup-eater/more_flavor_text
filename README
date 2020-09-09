@@ -1,22 +1,22 @@
 The current version is 1.2, the first one to be uploaded to github. 
 
 The MUTUALLY EXCLUSIVE add-ons are:
- - *otn*, Original Technology Names. For those who want the flavor but not the changes to technology names.
- - *trimmed_down*, Self-explanatory. For those who want to have the new technology names but trimmed-down flavor text.
- - *trimmed_down_otn*, Trimmed Down with Original Technology Names. For those who want trimmed down flavor text and the old technology names.
+ - otn, Original Technology Names. For those who want the flavor but not the changes to technology names.
+ - trimmed_down, Self-explanatory. For those who want to have the new technology names but trimmed-down flavor text.
+ - trimmed_down_otn, Trimmed Down with Original Technology Names. For those who want trimmed down flavor text and the old technology names.
 
 To install, you should:
- - Press the green button labeled *Code* and then the smaller one labeled *Download as ZIP*.
- - Create a copy of *Remnants.jar* in a separate folder, to prevent accidental damage to the game.
+ - Press the green button labeled Code and then the smaller one labeled Download as ZIP.
+ - Create a copy of Remnants.jar in a separate folder, to prevent accidental damage to the game.
  - Open Remnants.jar with an archive tool (WinRar, 7-Zip, etc.)
- - Go to *rotp/lang*.
- - Extract the downloaded zip file, go to *1.2/1.2 main*. 
-  - Add the folder *fl* and the *languages.txt* file to the archive.
- - Run the game and choose *Flavor* as your language. Done!
+ - Go to rotp/lang.
+ - Extract the downloaded zip file, go to 1.2/1.2 main. 
+  - Add the folder fl and the languages.txt file to the archive.
+ - Run the game and choose Flavor as your language. Done!
  
 To install add-ons, you should:
  - Install the main version without add-ons.
  - In your extracted zip file, go to the folder containing the desired add-on
- - Open *Remnants.jar* with an archive tool
- - Go to *rotp/lang/fl*
+ - Open Remnants.jar with an archive tool
+ - Go to rotp/lang/fl
  - Add the files in the desired add-on folder to the archive.
