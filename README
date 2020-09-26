@@ -7,16 +7,16 @@ The MUTUALLY EXCLUSIVE add-ons are:
 
 To install, you should:
  - Press the green button labeled Code and then the smaller one labeled Download ZIP.
- - Create a copy of Remnants.jar in a separate folder, to prevent accidental damage to the game.
+ - Create a copy of Remnants.jar in a separate folder, to prevent accidental damage to the game, if you are installing the mod for the first time.
  - Open Remnants.jar with an archive tool (WinRar, 7-Zip, etc.)
  - Go to rotp/lang.
- - Extract the downloaded zip file, go to more_flavor_text-master/main/1.2 main. 
+ - Extract the downloaded zip file, go to more_flavor_text-master/mod/main. 
   - Add the folder fl and the languages.txt file to the archive.
  - Run the game and choose Flavor as your language. Done!
  
 To install add-ons, you should:
  - Install the main version without add-ons.
- - In your extracted zip file, go to the folder containing the desired add-on (they are located in more_flavor_text-master/main)
+ - In your extracted zip file, go to the folder containing the desired add-on (they are located in more_flavor_text-master/mod)
  - Open Remnants.jar with an archive tool
  - Go to rotp/lang/fl
  - Add the files in the desired add-on folder to the archive.
