@@ -1,4 +1,4 @@
-The current version is 1.3, the second one to be uploaded to github. 
+The current version is 1.4, the third one to be uploaded to github. 
 
 The MUTUALLY EXCLUSIVE add-ons are:
  - otn, Original Technology Names. For those who want the flavor but not the changes to technology names.
@@ -10,13 +10,13 @@ To install, you should:
  - Create a copy of Remnants.jar in a separate folder, to prevent accidental damage to the game.
  - Open Remnants.jar with an archive tool (WinRar, 7-Zip, etc.)
  - Go to rotp/lang.
- - Extract the downloaded zip file, go to more_flavor_text-master/1.2/1.2 main. 
+ - Extract the downloaded zip file, go to more_flavor_text-master/main/1.2 main. 
   - Add the folder fl and the languages.txt file to the archive.
  - Run the game and choose Flavor as your language. Done!
  
 To install add-ons, you should:
  - Install the main version without add-ons.
- - In your extracted zip file, go to the folder containing the desired add-on (they are located in more_flavor_text-master/1.2)
+ - In your extracted zip file, go to the folder containing the desired add-on (they are located in more_flavor_text-master/main)
  - Open Remnants.jar with an archive tool
  - Go to rotp/lang/fl
  - Add the files in the desired add-on folder to the archive.
