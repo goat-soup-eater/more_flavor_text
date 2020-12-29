@@ -125,7 +125,7 @@ COMPUTER_11_DETAIL | By exploiting atomic interactivity, combat AIs are able to 
 //
 // Battle Suit techs for ground combat
 // 
-// this is for Def Systemsault, no-bonus armor that player starts with
+// this is for default, no-bonus armor that player starts with
 BATTLESUIT_0_NAME    | Armor
 BATTLESUIT_0_DETAIL  |
 
@@ -229,7 +229,7 @@ CLONE_1_DETAIL   | A more streamlined cloning process that automatically atomize
 // Combat Transporter tech
 //
 COMBATTRANSPORT_0_NAME     | Combat Transporters
-COMBATTRANSPORT_0_DETAIL   | Transport ships equipped with these devices have a 50% chance of beaming down their troops onto enemy planets before they can be attacked by enemy ships and missile defense bases.
+COMBATTRANSPORT_0_DETAIL   | Transports equipped with these devices have a 50% chance of beaming down onto enemy surfaces before they can be attacked by enemy ships and missile defense bases.
 
 
 //
@@ -243,38 +243,38 @@ CONTROLENV_0_DETAIL  | Pre-fab shelters, survival gear, frozen colonists. Permit
 CONTROLENV_1_NAME    | Controlled Barren Environment
 CONTROLENV_1_ITEM    | Barren Colony Base
 CONTROLENV_1_BRIEF   | Allows Colonization of Barren Planets
-CONTROLENV_1_DETAIL  | A new kind of colony base, protected from geohazards and terrain, able to extract what little water there is from rocks. Permits the colonization of barren planets.
+CONTROLENV_1_DETAIL  | A new kind of colony base, protected from geohazards and terrain, able to extract what little water there is from rocks. Permits the colonization of barren and less hostile planets.
 
 CONTROLENV_2_NAME    | Controlled Frozen Environment
 CONTROLENV_2_ITEM    | Frozen Colony Base
 CONTROLENV_2_BRIEF   | Allows Colonization of Frozen Planets
-CONTROLENV_2_DETAIL  | A new kind of colony base, one insulated and protected from the cold and able to extract most of it's energy deep from the core. Permits the colonization of frozen planets.
+CONTROLENV_2_DETAIL  | A new kind of colony base, one insulated and protected from the cold and able to extract most of it's energy deep from the core. Permits the colonization of frozen and less hostile planets.
 
 CONTROLENV_3_NAME    | Controlled Dead Environment
 CONTROLENV_3_ITEM    | Dead Colony Base
 CONTROLENV_3_BRIEF   | Allows Colonization of Dead Planets
-CONTROLENV_3_DETAIL  | A new kind of colony base, one able to protect it's inhabitants from the hazardous environment of the planet. Permits the colonization of dead planets.
+CONTROLENV_3_DETAIL  | A new kind of colony base, one able to protect it's inhabitants from the hazardous environment of the planet. Permits the colonization of dead and less hostile planets.
 
 CONTROLENV_4_NAME    | Controlled Inferno Environment
 CONTROLENV_4_ITEM    | Inferno Colony Base
 CONTROLENV_4_BRIEF   | Allows Colonization of Inferno Planets
-CONTROLENV_4_DETAIL  | A new kind of colony base, insulated from the environment and able to survive the hellish temperatures of the planet. Permits the colonization of inferno planets.
+CONTROLENV_4_DETAIL  | A new kind of colony base, insulated from the environment and able to survive the hellish temperatures of the planet. Permits the colonization of inferno and less hostile planets.
 
 CONTROLENV_5_NAME    | Controlled Toxic Environment
 CONTROLENV_5_ITEM    | Toxic Colony Base
 CONTROLENV_5_BRIEF   | Allows Colonization of Toxic Planets
-CONTROLENV_5_DETAIL  | A new kind of colony base, one insulated and protected from the strange and cold environment of the planet. Permits the colonization of toxic planets.
+CONTROLENV_5_DETAIL  | A new kind of colony base, one insulated and protected from the strange and cold environment of the planet. Permits the colonization of toxic and less hostile planets.
 
 CONTROLENV_6_NAME    | Controlled Irradiated Environment
 CONTROLENV_6_ITEM    | Radiated Colony Base
 CONTROLENV_6_BRIEF   | Allows Colonization of Irradiated Planets
-CONTROLENV_6_DETAIL  | A new kind of colony base, one engineered in a way as to protect it's inhabitants from the restless cosmic radiation. Permits the colonization of irradiated planets.
+CONTROLENV_6_DETAIL  | A new kind of colony base, one engineered in a way as to protect it's inhabitants from the restless cosmic radiation. Permits the colonization of irradiated and less hostile planets.
 
 
 //
-// DEFLECTOR Shield tech
+// Deflector Shield tech
 //
-// this is the entry on Ship Design for selecting no DEFLECTOR shield
+// this is the entry on Ship Design for selecting no deflector shield
 DEFLECTOR_0_NAME      | 
 DEFLECTOR_0_ITEM      |   
 DEFLECTOR_0_BRIEF     |  
@@ -439,56 +439,56 @@ PULSAR_1_DETAIL   | A powerful engine modification capable of generating a spher
 // Engine techs
 //
 ENGINE_0_NAME    | Chemical Engines 
-ENGINE_0_DETAIL  | Uses combustible propellant to move ships at 1 c, and allows a maximum maneuverability of class I in combat.
+ENGINE_0_DETAIL  | Uses combustible propellant to move ships at %1 c, and allows a maximum maneuverability of class I in combat.
 ENGINE_0_ITEM    | Chemical
 ENGINE_0_ITEM2   | Class 1
 ENGINE_0_BRIEF   | 1 c  Def Systems %1
 ENGINE_0_BRIEF2  | Combat Speed %1
 
 ENGINE_1_NAME    | Ion Engines 
-ENGINE_1_DETAIL  | Uses beams of ions to move ships at 2 times the speed of light, and allows a maximum maneuverability of class II in combat.
+ENGINE_1_DETAIL  | Uses beams of ions to move ships at %1 times the speed of light, and allows a maximum maneuverability of class II in combat.
 ENGINE_1_ITEM    | Ion
 ENGINE_1_ITEM2   | Class 2
 ENGINE_1_BRIEF   | 2 c  Def Systems %1
 ENGINE_1_BRIEF2  | Combat Speed %1
 
 ENGINE_2_NAME    | Nuclear Engines 
-ENGINE_2_DETAIL  | Efficient engines that utilize nuclear reactions to move ships at 3 times the speed of light, and allow a maximum maneuverability of class III in combat.
+ENGINE_2_DETAIL  | Efficient engines that utilize nuclear reactions to move ships at %1 times the speed of light, and allow a maximum maneuverability of class III in combat.
 ENGINE_2_ITEM    | Nuclear
 ENGINE_2_ITEM2   | Class 3
 ENGINE_2_BRIEF   | 3 c  Def Systems %1
 ENGINE_2_BRIEF2  | Combat Speed %1
 
 ENGINE_3_NAME    | Fusion Drives 
-ENGINE_3_DETAIL  | Very efficient engines. Move ships at 4 times the speed of light, and allow a maximum maneuverability of class IV in combat.
+ENGINE_3_DETAIL  | Very efficient engines. Move ships at %1 times the speed of light, and allow a maximum maneuverability of class IV in combat.
 ENGINE_3_ITEM    | Fusion
 ENGINE_3_ITEM2   | Class 4
 ENGINE_3_BRIEF   | 4 c  Def Systems %1
 ENGINE_3_BRIEF2  | Combat Speed %1
 
 ENGINE_4_NAME    | Impulse Engines 
-ENGINE_4_DETAIL  | This improved variant of the old retro drive changes moves ships at 5 times the speed of light, and allows a maximum maneuverability of class V in combat.
+ENGINE_4_DETAIL  | This improved variant of the old retro drive changes moves ships at %1 times the speed of light, and allows a maximum maneuverability of class V in combat.
 ENGINE_4_ITEM    | Impulse
 ENGINE_4_ITEM2   | Class 5
 ENGINE_4_BRIEF   | 5 c  Def Systems %1
 ENGINE_4_BRIEF2  | Combat Speed %1
 
 ENGINE_5_NAME    | Plasma Drives 
-ENGINE_5_DETAIL  | An advanced form of the old ion drives. Moves ships at 6 times the speed of light, and allows a maximum maneuverability of class VI in combat.
+ENGINE_5_DETAIL  | An advanced form of the old ion drives. Moves ships at %1 times the speed of light, and allows a maximum maneuverability of class VI in combat.
 ENGINE_5_ITEM    | Plasma
 ENGINE_5_ITEM2   | Class 6
 ENGINE_5_BRIEF   | 6 c  Def Systems %1
 ENGINE_5_BRIEF2  | Combat Speed %1
 
 ENGINE_6_NAME    | Anti-Matter Engines
-ENGINE_6_DETAIL  | An engine using the energy of anti-matter reactions. Moves ships at 7 times the speed of light, and allows a maximum maneuverability of class VII in combat.
+ENGINE_6_DETAIL  | An engine using the energy of anti-matter reactions. Moves ships at %1 times the speed of light, and allows a maximum maneuverability of class VII in combat.
 ENGINE_6_ITEM    | Anti-Matter
 ENGINE_6_ITEM2   | Class 7
 ENGINE_6_BRIEF   | 7 c  Def Systems %1
 ENGINE_6_BRIEF2  | Combat Speed %1
 
 ENGINE_7_NAME    | Inter-Phased Drives
-ENGINE_7_DETAIL  | Using a combination of pan-dimensional projection of hard light and a small application of thrust in the right direction, this drive moves ships at 8 times the speed of light, and allows a maximum maneuverability of class VIII in combat.
+ENGINE_7_DETAIL  | Using a combination of pan-dimensional projection of hard light and a small application of thrust in the right direction, this drive moves ships at %1 times the speed of light, and allows a maximum maneuverability of class VIII in combat.
 ENGINE_7_ITEM    | Inter-Phased
 ENGINE_7_ITEM2   | Class 8
 ENGINE_7_BRIEF   | 8 c  Def Systems %1
@@ -496,7 +496,7 @@ ENGINE_7_BRIEF2  | Combat Speed %1
 
 ENGINE_8_NAME    | Hyper Drives
 ENGINE_8_ITEM    | Hyper
-ENGINE_8_DETAIL  | The final word in engine technology. By fully entering the realm of hyperspace and floating along the galactic current it is possible to move ships at 9 times the speed of light, and allows a maximum maneuverability of class IX in combat.
+ENGINE_8_DETAIL  | The final word in engine technology. By fully entering the realm of hyperspace and floating along the galactic current it is possible to move ships at %1 times the speed of light, and allows a maximum maneuverability of class IX in combat.
 ENGINE_8_ITEM2   | Class 9
 ENGINE_8_BRIEF   | 9 c  Def Systems %1
 ENGINE_8_BRIEF2  | Combat Speed %1
