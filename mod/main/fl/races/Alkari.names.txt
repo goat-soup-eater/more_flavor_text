@@ -3,7 +3,7 @@ name: Alkari, Aviari, Cluckari, Feathari, Fowlari
 
 desc1: Honorable Militarists
 desc2: Superior Pilots
-desc3: The birdlike [race] are capable of limited flight and 3D spatial visualization. They live in a feudal warrior society that prizes honor in battle.
+desc3: The [race] Sovereignty is an organized warrior society that prizes honor in battle.
 
 // possible home system names
 home: Altair, Aegir, Aviar, Volary, Aerie

@@ -38,7 +38,7 @@ DECLAREWAR_ALLIANCE_01     | You've played a dangerous game to make an enemy of 
 DECLAREWAR_ALLIANCE_02     | Our ally, the [other_race_plural], are an honorable but weak people. You might have won had this war involved only your two empires, but with us on their side you've no chance of victory!
 DECLAREWAR_ALLIANCE_03     | We'd have preferred to have the honor of toppling your empire all to ourselves. It looks like we'll have to split the glory, and the loot, with the [other_race] this time around.
 //
-DECLAREWAR_SPYING_01       | Coward, to engage in secrecy from the safety of your own planets rather than to fight with honor! Your actions match your weakness, and now you shall pay the price! 
+DECLAREWAR_SPYING_01       | Coward, to engage in secrecy rather than fight with honor! Your actions match your weakness, and now you shall pay the price! 
 DECLAREWAR_SPYING_02       | How does it feel, [your_race]? To risk so much only to bring nothing but war upon your people?
 DECLAREWAR_SPYING_03       | Tell the [your_nameTitle] [your_name] this: secrecy is the theater of gutless curs. That you would act in such an cowardly way means our ferocity alone will see us to victory!
 //
@@ -61,7 +61,7 @@ WARN_BUILDUP_01            | If you're building up your fleets to raid another r
 WARN_SKIRMISH_01           | That was an amusing little skirmish, wasn't it? Still, these small battles are boring and without reward: if you insist on continuing them, we'll be happy to make a more formal declaration of war! 
 WARN_ATTACKED_01           | Ha! Was that a serious attempt at trying to provoke us ambassador? Your people are weak and your treasures tarnished! Cease this foolish gambit before you force us to end you! 
 WARN_INVADED_01            | Surely you jest with this meager little invasion of yours? You're fortunate that we had little use for the [system] system, but if you set your sights on more valuable systems, we'll ensure that you can take nothing from anyone ever again! 
-WARN_ESPIONAGE_01          | What sneaky games your people play! You will have to put forth a great deal more effort than that if you wish to gain the secrets of the Khanate for yourself. Remove your remaining spy programs, before this game ceases to be amusing. [framed]
+WARN_ESPIONAGE_01          | What sneaky games your people play! You will have to put forth a great deal more effort than that if you wish to gain the secrets of the Khanate for yourself. Take your spy back with you and leave, before this game ceases to be amusing. [framed]
 WARN_SABOTAGE_01           | Dangerous ploys, ambassador. Had the building you wished to destroy housed great valuables, we would doubtless be washing your blood from the streets of your homeworld. I would heavily recommend you not to consider sabotage again.
 WARN_BIOWEAPON_01          | Trophies must be won in honorable combat, not stolen from the bones of those who were defenseless even while alive! If you ever use such despicable weapons again, I assure you it will be the last time! 
 WARN_GENOCIDE_01           | Not a bad decision, to eradicate the entire [victim_race] species and take every one of their treasures for your own. While I doubt you'd be stupid enough to try something like that with us, your capabilities are still quite disconcerting. 

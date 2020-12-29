@@ -3,7 +3,7 @@ name: Psilon, Mentalon, Psychon, Cerebron, Neuralon
 
 desc1: Pacifist Technologists
 desc2: Superior Research Techniques
-desc3: The weak and feeble [race] seek to unlock the mysteries of the universe, and to share it peacefully with other races.
+desc3: The [race] Republic seeks peaceful and enlightened coexistence with other races.
 
 // possible home system names
 home: Mentar, Cogitar, Psilar, Metrica, Neura

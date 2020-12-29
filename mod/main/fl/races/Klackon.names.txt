@@ -2,8 +2,8 @@
 name: Klackon, Klackant, Klockan, Arthropon, Coleopteron
 
 desc1: Xenophobic Industrialists
-desc2: Hive Mind Species
-desc3: A single conciousness controlling millions of insectoid bodies, the [race] seeks to find another life-form like itself.
+desc2: Hive Mind Colony and Increased Worker Production
+desc3: A species with a single controlling mind, the industrious [race] is inscrutable to outsiders.
 
 // possible home system names
 home: Kholdan, Kholdant, Khaldon, Klokdon, Khakdon

@@ -1,9 +1,9 @@
 // all possible names
 name: Bulrathi, Bearathi, Ursinathi, Pawrathi, Grizzlathi
 
-desc1: Aggressive Militarists
+desc1: Aggressive Ecologists
 desc2: Terrific Ground Fighters
-desc3: The bear-like [race] are fiercely loyal to their philosopher-king, in whom they value both strength and wisdom.
+desc3: The fiercely loyal [race] value both strength and wisdom in their philosopher-king.
 
 // possible home system names
 home: Ursa, Canis, Grizzla, Pandara, Bruin

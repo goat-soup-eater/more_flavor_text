@@ -15,7 +15,7 @@
 // Bulrathi specific dialogue
 
 CONTACT_AGGRESSIVE         | I am ambassador of the [my_empire]. I advise you to stay on the good side of the [my_title], little [your_race]. For he needs only to say the word and your kind will perish beneath a fury you couldn't possibly imagine.
-CONTACT_RUTHLESS           | Such small creatures you are! You need only know two things: first that we are called "[my_race]", and second that opposing our conquest only guarantees your demise!
+CONTACT_RUTHLESS           | Such small creatures you are! You need only know two things: first, that we are called "[my_race]", and second, that opposing our conquest only guarantees your demise!
 CONTACT_ERRATIC            | We of the [my_empire] greet you, little ones. Our destiny lies somewhere among these scattered worlds and burning stars. It'll be interesting to see where you will fit in our grand design.
 //
 GREETING_01                | So you have acted with honor, and so we shall act to honor you. Tell us what you need, little friend. 
@@ -35,7 +35,7 @@ DECLAREWAR_ALLIANCE_01     | An ally of the Empire has requested our aid! We wil
 DECLAREWAR_ALLIANCE_02     | You make war on our ally, doubtless unaware that you make war on us as well. This is a fight from which your people will not emerge victorious, ambassador. Count on it.
 DECLAREWAR_ALLIANCE_03     | Even with all your might, you stand no chance against the [defender_race] if we [my_race] join with them! Prepare yourself, little [your_race]!
 DECLAREWAR_SPYING_01       | Such treachery! But when you must exist in so small a body you must have little other choice: you obviously stand no chance on the field of battle, as we will now so easily prove.
-DECLAREWAR_SPYING_02       | To think that people so small cannot succeed in such covert and cowardly operations. Hang your spies high for your worlds to see; you will pay for their blunders with your life! 
+DECLAREWAR_SPYING_02       | To think that people so small cannot succeed in such covert operations. Hang your spies high for your worlds to see; you will pay for their blunders with your life! 
 DECLAREWAR_SPYING_03       | You think we are too weak to respond to such underhanded actions, little one? We will show you just how grave a misjudgment you have made!
 DECLAREWAR_ATTACK_01       | If you wish to fight so much, you need only ask, little [your_race]. We will crush everything you hold dear before your very eyes in a single strike!
 DECLAREWAR_ATTACK_02       | To attack us so brazenly, as though you were much stronger than you are. Commendable, but mistaken in the end.
@@ -54,8 +54,8 @@ WARN_BUILDUP_01            | Space is the theater of cowards: true bravery can o
 WARN_SKIRMISH_01           | The skirmish at [system] is little more than nuisance to us. Bother us no more, or we will crush you like the pest you seem so insistent on being!
 WARN_ATTACKED_01           | A pathetic display from an equally pathetic race! Count your blessings that the [defender_title] has more important matters to tend to than your meager show of force, but know that if you wish for a war we are happy tooblige you, little one. 
 WARN_INVADED_01            | Ha! Such bravery from so small a people. Leave our territories now little one, before you do something you are certain to regret soon after. 
-WARN_ESPIONAGE_01          | Cowards! To sneak amongst [victim_race] networks like chommkas escaping their tubes. Be grateful we are willing to tolerate this for now, and do not force us to respond to such spinelessness again! [framed]
-WARN_SABOTAGE_01           | Why not face us in combat, little one? It would bore us to battle a race timid enough to rely on sabotage, not even bothering to send real spies but rather use computer viruses, but if you do this again we may endure that boredom just to be rid of you!  
+WARN_ESPIONAGE_01          | Cowards! To sneak amongst [victim_race_plural] like chommkas escaping their tubes. Be grateful we did not crush your spy, and do not force us to respond to such spinelessness again! [framed]
+WARN_SABOTAGE_01           | Why not face us in combat, little one? It would bore us to battle a race timid enough to rely on sabotage, but if you do this again we may endure that boredom just to be rid of you!  
 WARN_BIOWEAPON_01          | The ultimate act of cowardice, to use a bioweapon against those who cannot even defend themselves! Your people will bear this shame until the end of your empire, little one: nothing you do will ever wipe this slate clean. 
 WARN_GENOCIDE_01           | The [victim_race_plural] were weak and frail, and are no great loss to the galaxy. That a people as insignificant as yours would be the ones responsible for their extinction is what we find most disconcerting.
 WARN_FINAL_WAR_01          | We admire the bravery of those who seek to stand against the galaxy when it has chosen to unite in peace? We will record your boldness in our histories, little one, after we have crushed you down to the very last child! 

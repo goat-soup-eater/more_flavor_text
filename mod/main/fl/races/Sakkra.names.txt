@@ -3,7 +3,7 @@ name: Sakkra, Reptara, Saura, Raptora, Tyranna
 
 desc1: Aggressive Expansionists
 desc2: Increased Population Growth
-desc3: The reptilian [race] strive to perfect the environments of every planet in the galaxy by any means necessary.
+desc3: The zealots of the [race] Conclave strive to perfect the worlds they conquer.
 
 // possible home system names
 home: Sssla, Sssana, Sssihs, Sssha, Sssss, Hsssa
