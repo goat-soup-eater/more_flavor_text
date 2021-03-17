@@ -1,9 +1,9 @@
 The last version is 1.6. No more development is planned.
 
 The MUTUALLY EXCLUSIVE add-ons are:
- - otn, Original Technology Names. For those who want the flavor but not the changes to technology names.
- - trimmed_down, Self-explanatory. For those who want to have the new technology names but trimmed-down flavor text.
- - trimmed_down_otn, Trimmed Down with Original Technology Names. For those who want trimmed down flavor text and the old technology names.
+ - otn, Original Technology Names.
+ - trimmed_down, Self-explanatory.
+ - trimmed_down_otn, Trimmed Down with Original Technology Names.
 
 To install, you should:
  - Press the green button labeled Code and then the smaller one labeled Download ZIP.
@@ -12,7 +12,7 @@ To install, you should:
  - Go to rotp/lang.
  - Extract the downloaded zip file, go to more_flavor_text-master/mod/main. 
   - Add the folder fl and the languages.txt file to the archive.
- - Run the game and choose Flavor as your language. Done!
+ - Run the game and choose Flavor as your language.
  
 To install add-ons, you should:
  - Install the main version without add-ons.
